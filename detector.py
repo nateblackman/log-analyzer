@@ -13,7 +13,7 @@ def detect_bruteforce(events, threshold=5):
             alerts.append({
                 "type": "Brute force",
                 "ip": ip,
-                "attempts": len(failures)
+                "attempts": len(failures),
                 "target_users": list(set(f["username"] for f in failures))
             })
     return alerts
