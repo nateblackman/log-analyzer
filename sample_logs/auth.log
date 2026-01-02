@@ -1,0 +1,8 @@
+Jan 10 12:01:10 server sshd[1234]: Failed password for admin from 192.168.1.45 port 54821
+Jan 10 12:01:12 server sshd[1234]: Failed password for admin from 192.168.1.45 port 54821
+Jan 10 12:01:15 server sshd[1234]: Failed password for admin from 192.168.1.45 port 54821
+Jan 10 12:01:18 server sshd[1234]: Failed password for admin from 192.168.1.45 port 54821
+Jan 10 12:01:22 server sshd[1234]: Failed password for admin from 192.168.1.45 port 54821
+Jan 10 12:01:30 server sshd[1234]: Accepted password for user from 10.0.0.12 port 52133
+Jan 10 12:02:05 server sshd[1234]: Failed password for root from 192.168.1.99 port 44122
+Jan 10 12:02:08 server sshd[1234]: Failed password for root from 192.168.1.99 port 44122
