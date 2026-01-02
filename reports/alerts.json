@@ -1,0 +1,10 @@
+[
+    {
+        "type": "Brute force",
+        "ip": "192.168.1.45",
+        "attempts": 5,
+        "target_users": [
+            "admin"
+        ]
+    }
+]
